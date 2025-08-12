@@ -1,0 +1,40 @@
+/* Estilos generales */
+body {
+  font-family:Magneto, Lucida Console;
+  margin: 0;
+  padding: 0;
+  background-color: #d8d5ad3d;
+  color: #e732e749;
+}
+
+/* Encabezado */
+header {
+  background-color: #e786d248;
+  color: rgb(17, 17, 16);
+  padding: 40px 20px;
+  text-align: center;
+}
+
+/* Secciones */
+section {
+  padding: 20px;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Enlaces */
+a {
+  color: rgb(209, 170, 197);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #130f0f;
+  font-size: 14px;
+}
