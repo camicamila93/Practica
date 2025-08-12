@@ -1,16 +1,16 @@
 /* Estilos generales */
 body {
-  font-family:Magneto, Lucida Console;
+  font-family:Magneto, LucidaConsole;
   margin: 0;
   padding: 0;
-  background-color: #d8d5ad3d;
-  color: #e732e749;
+  background-color: #e9e7d43d;
+  color: #f074f049;
 }
 
 /* Encabezado */
 header {
   background-color: #e786d248;
-  color: rgb(211, 211, 201);
+  color: rgb(238, 88, 200);
   padding: 40px 20px;
   text-align: center;
 }
@@ -23,7 +23,7 @@ section {
 
 /* Enlaces */
 a {
-  color: rgb(209, 170, 197);
+  color: rgb(238, 88, 200);
   text-decoration: none;
 }
 
@@ -35,6 +35,6 @@ a:hover {
 footer {
   text-align: center;
   padding: 20px;
-  background-color: #130f0f;
+  background-color: #f1eaea;
   font-size: 14px;
 }
